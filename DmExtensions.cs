@@ -27,5 +27,15 @@ namespace DmHttp
         {
             return WebUtility.HtmlDecode(input);
         }
+
+        public static string UrlEncode(this string input)
+        {
+            return WebUtility.UrlEncode(input);
+        }
+
+        public static string UrlDecode(this string input)
+        {
+            return WebUtility.UrlDecode(input);
+        }
     }
 }
