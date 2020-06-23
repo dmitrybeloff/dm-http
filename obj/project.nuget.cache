@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0c/nwakVesUXpO5CFYw5zGpVmJK8teV68b2k/YzgNjV8thowr3IiniQp3iXSXkZvnaObxKn7uOgoaHoBo6URg==",
+  "success": true,
+  "projectFilePath": "G:\\1Work\\SCRIPTS\\CSharp\\DmRequest\\DmRequest\\DmHttp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitr\\.nuget\\packages\\starksoft.aspen\\1.1.8\\starksoft.aspen.1.1.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"starksoft.aspen 1.1.8\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "starksoft.aspen",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

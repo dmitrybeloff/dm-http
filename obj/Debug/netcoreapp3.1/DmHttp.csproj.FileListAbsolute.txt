@@ -1,0 +1,9 @@
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\bin\Debug\netcoreapp3.1\DmHttp.deps.json
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\bin\Debug\netcoreapp3.1\DmHttp.dll
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\bin\Debug\netcoreapp3.1\DmHttp.pdb
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.csprojAssemblyReference.cache
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.csproj.CoreCompileInputs.cache
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.AssemblyInfoInputs.cache
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.AssemblyInfo.cs
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.dll
+G:\1Work\SCRIPTS\CSharp\DmRequest\DmRequest\obj\Debug\netcoreapp3.1\DmHttp.pdb
